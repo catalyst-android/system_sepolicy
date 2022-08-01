@@ -144,6 +144,7 @@ full_treble_only(`
     -init
     -ueventd
     -vold
+    -system_suspend
   } sysfs:file no_rw_file_perms;
 
   # /dev
